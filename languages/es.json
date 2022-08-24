@@ -1,0 +1,14 @@
+{
+	"profile":{
+		"rol": "Hacker White Hat",
+		"description": "Más de 2 años de experiencia en pentesting web, hacking ético, gestión de servidores, desarrollo movíl, FrontEnd y BackEnd. Apasionado de las nuevas tecnologías y en especial de las nuevas técnicas de hacking ético y exploits. <br> Mi proposito es desarrollar aplicaciones que ayuden a la seguridad de las personas, así como las empresas que lo requieran."
+	},
+	"experience":{
+		"first-job-title": "Pentester web",
+		"first-job-dates": "Septiembre 2020 - Septiembre 2021",
+		"first-job-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+		"second-job-title": "Pentester web",
+		"second-job-dates": "Octubre 2021 - Actualmente",
+		"second-job-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	}
+}
